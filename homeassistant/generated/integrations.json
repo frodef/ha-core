@@ -5105,6 +5105,12 @@
       "config_flow": true,
       "iot_class": "local_polling"
     },
+    "solis_local": {
+      "name": "Solis_local",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "soma": {
       "name": "Soma Connect",
       "integration_type": "hub",
